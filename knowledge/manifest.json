@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "library": "Negotiator Knowledge Base",
+  "documents": [
+    {
+      "id": "batna",
+      "path": "frameworks/batna.md",
+      "title": "BATNA — Best Alternative",
+      "language": "ru",
+      "tags": [
+        "strategy",
+        "batna",
+        "alternatives"
+      ]
+    },
+    {
+      "id": "zopa",
+      "path": "frameworks/zopa.md",
+      "title": "ZOPA — Zone of Possible Agreement",
+      "language": "ru",
+      "tags": [
+        "strategy",
+        "zopa",
+        "pricing"
+      ]
+    },
+    {
+      "id": "anchoring",
+      "path": "frameworks/anchoring.md",
+      "title": "Anchoring — Якорение",
+      "language": "ru",
+      "tags": [
+        "strategy",
+        "anchoring",
+        "pricing"
+      ]
+    },
+    {
+      "id": "active-listening",
+      "path": "frameworks/active-listening.md",
+      "title": "Активное слушание",
+      "language": "ru",
+      "tags": [
+        "communication",
+        "empathy"
+      ]
+    },
+    {
+      "id": "concessions",
+      "path": "frameworks/concessions.md",
+      "title": "Управление уступками",
+      "language": "ru",
+      "tags": [
+        "strategy",
+        "concessions"
+      ]
+    },
+    {
+      "id": "price-negotiation",
+      "path": "scenarios/price-negotiation.md",
+      "title": "Тренировка ценовых переговоров",
+      "language": "ru",
+      "tags": [
+        "scenario",
+        "pricing"
+      ]
+    },
+    {
+      "id": "salary-negotiation",
+      "path": "scenarios/salary-negotiation.md",
+      "title": "Тренировка переговоров о зарплате",
+      "language": "ru",
+      "tags": [
+        "scenario",
+        "salary"
+      ]
+    },
+    {
+      "id": "scoring-rubric",
+      "path": "evaluation/scoring-rubric.md",
+      "title": "Оценка переговорных навыков",
+      "language": "ru",
+      "tags": [
+        "evaluation",
+        "coaching"
+      ]
+    }
+  ]
+}
